@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Collier
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning more on Python (transitioning from using SAS)
-- 📫 How to reach me: jamesecollier@proton.me or https://www.linkedin.com/in/jamescollier1981/
+- 👀 I’m interested in data science and advanced analytics
+- 🌱 I’m currently working in the fintech world
+- 📫 How to reach me: https://www.linkedin.com/in/jamescollier1981/
 
 <!---
 jamesecollier81/jamesecollier81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
